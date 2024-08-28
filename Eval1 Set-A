@@ -1,0 +1,21 @@
+class student_grades(){
+    def add_student(name,student_id,_class,list_of_grades)
+    if student_id is not None{
+        
+    print("New Student")
+
+    def update_grades(name,student_id,_class,list_of_grades){
+        if (name=="Akaash"){
+            print("Grade=A")
+            
+    def calculate_average(name,student_id,_class,list_of_grades)
+            if(list_of_grades==20-){
+                print("Average Grade= B")
+                
+    def generate_top_students_report(name,student_id,_class,list_of_grades)
+                if(_class=='A'){
+                    print("Top performing student")
+            
+        
+ 
+
